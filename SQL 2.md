@@ -2,17 +2,17 @@
 
 관계명 데이터베이스를 제어하기 위한 언어이다.
 
-## Database
+## 1. Database
 
-### 1. 데이터베이스 생성
+### 1-1. 데이터베이스 생성
 
 ```sql
 CREATE DATABASE <이름>
 ```
 
-## Table
+## 2. Table
 
-### 1. Table 생성
+### 2-1. Table 생성
 
 ```sql
 CREATE TABLE <이름> (
@@ -24,7 +24,7 @@ CREATE TABLE <이름> (
 );
 ```
 
-### 2. Data Type
+### 2-2. Data Type
 
 1. INTEGER
    - 정수를 넣기 위한 데이터형으로 실수는 입력할 수 없다.
@@ -34,13 +34,13 @@ CREATE TABLE <이름> (
 3. VACHAR
    - 가변 문자열 형식으로 문자 수가 최대 길이보다 작아도 공백으로 채우지 않는다.
 
-### 3. Table 삭제
+### 2-3. Table 삭제
 
 ```sql
 DROP TABLE <table 이름>;
 ```
 
-### 4. Table 정의 변경
+### 2-4. Table 정의 변경
 
 - 열 추가하기
 
