@@ -25,3 +25,5 @@
 
 ### 정규화 - 중복 제거를 위해 쪼개는 것 (무결성o)
 
+- 아래의 링크 영상 보고 이해하기
+- [정규화만 잘해도 데이터 전문가는 나의 것! - YouTube](https://www.youtube.com/watch?v=pMcv0Zhh3J0)
